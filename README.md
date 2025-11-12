@@ -23,6 +23,8 @@
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/d9295d920402520aa40a5378841ab343a4eb391c/lab7web/Screenshot%202025-11-12%20160457.png)
 
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/29fb1cfde6e9662c2122319e48a25fc4e63ecc4a/lab7web/Screenshot%202025-11-12%20160524.png)
+
 # Latihan 5 operator.php
 
 ![hasil]()
