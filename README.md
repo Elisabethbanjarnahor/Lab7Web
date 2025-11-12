@@ -9,7 +9,13 @@
 # Latihan 1 php_dasar.php
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/9c2ba520a22bac5ddf6e4538a65069f3cfd1e2a4/lab7web/Screenshot%202025-11-12%20155515.png)
+```
+Penjelasan:
 
+echo digunakan untuk menampilkan teks ke browser.
+
+File ini memastikan PHP di-server berjalan dengan benar
+```
 
 # Latihan 2 variabel_php.php
 
