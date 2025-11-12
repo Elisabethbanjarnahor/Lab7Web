@@ -20,35 +20,99 @@ File ini memastikan PHP di-server berjalan dengan benar
 # Latihan 2 variabel_php.php
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/ac10377a37015331d80a206e97d6343ebb4116c8/lab7web/Screenshot%202025-11-12%20155954.png)
+```
+Penjelasan:
+
+$nim dan $nama adalah variabel yang menyimpan data.
+
+Operator . digunakan untuk menggabungkan teks.
+
+<br> untuk ganti baris.
+```
 
 # Latihan 3 latihan2.php (GET)
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/fa046547b5baaf4b939bfefece04e9b57e1391f3/lab7web/Screenshot%202025-11-12%20160226.png)
+```
+Penjelasan:
+
+$_GET['nama'] mengambil data dari URL browser
+```
 
 # Latihan 4 form_input.php
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/d9295d920402520aa40a5378841ab343a4eb391c/lab7web/Screenshot%202025-11-12%20160457.png)
+```
+Penjelasan:
+
+method="post" artinya data dikirim ke server secara tersembunyi.
+
+$_POST['nama'] mengambil data dari form yang dikirim user.
+
+if (!empty(...)) memastikan data tidak kosong sebelum ditampilkan.
+```
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/29fb1cfde6e9662c2122319e48a25fc4e63ecc4a/lab7web/Screenshot%202025-11-12%20160524.png)
 
 # Latihan 5 operator.php
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/c514860c3d0510c102fc1cd78455d7688817eb3a/lab7web/Screenshot%202025-11-12%20160732.png)
+```
+Penjelasan:
+
+$thp = gaji bersih setelah dikurangi pajak 10%.
+
+Operator - dan * digunakan untuk pengurangan dan perkalian.
+```
 
 # Latihan 6 kondisi_if.php dan kondisi_switch.php
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/34d8589808633c5067f87a8e58ee44ae99f9279d/lab7web/Screenshot%202025-11-12%20161055.png)
+```
+Penjelasan:
+
+date("l") ambil nama hari (Sunday, Monday, dll).
+
+if, elseif, else menentukan hasil berdasarkan kondisi hari.
+```
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/c1113d6ed46f1251f71ef059682e282e18c56c47/lab7web/Screenshot%202025-11-12%20161147.png)
+```
+Penjelasan:
+
+switch digunakan saat banyak pilihan kondisi.
+
+break menghentikan proses setelah kondisi cocok.
+```
 
 # Latihan 7 perulangan_for.php, while.php, dowhile.php
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/ebb310bc41f83f175ccba64d1c54aefb33602b09/lab7web/Screenshot%202025-11-12%20161629.png)
+```
+Penjelasan:
+Perulangan for akan berjalan dari 1 sampai 10.
+
+Penjelasan:
+while terus mengulang selama kondisi benar ($i <= 10).
+
+Penjelasan:
+do while menjalankan minimal satu kali walau kondisi salah.
+```
 
 # Tugas Akhir tugas_php.php
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/11ba246b02f2aa68f7d19d145696746575403dba/lab7web/Screenshot%202025-11-12%20162535.png)
+```
+Penjelasan:
 
+Form input dikirim pakai metode POST.
+
+date_diff() menghitung umur dari tanggal lahir.
+
+switch memilih gaji sesuai pekerjaan.
+
+number_format() menampilkan angka dengan format ribuan.
+```
 
 
 
