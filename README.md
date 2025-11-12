@@ -31,6 +31,8 @@
 
 # Latihan 6 kondisi_if.php dan kondisi_switch.php
 
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/34d8589808633c5067f87a8e58ee44ae99f9279d/lab7web/Screenshot%202025-11-12%20161055.png)
+
 ![hasil]()
 
 # Latihan 7 perulangan_for.php, while.php, dowhile.php
