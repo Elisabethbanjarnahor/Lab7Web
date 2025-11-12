@@ -11,4 +11,31 @@
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/9c2ba520a22bac5ddf6e4538a65069f3cfd1e2a4/lab7web/Screenshot%202025-11-12%20155515.png)
 
 
-#
+# Latihan 2 variabel_php.php
+
+![hasil]()
+
+# Latihan 3 latihan2.php (GET)
+
+![hasil]()
+
+# Latihan 4 form_input.php
+
+![hasil]()
+
+# Latihan 5 operator.php
+
+![hasil]()
+
+# Latihan 6 kondisi_if.php dan kondisi_switch.php
+
+![hasil]()
+
+# Latihan 7 perulangan_for.php, while.php, dowhile.php
+
+![hasil]()
+
+# Tugas Akhir tugas_php.php
+
+![hasil]()
+
