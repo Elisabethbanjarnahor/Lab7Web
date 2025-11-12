@@ -13,7 +13,7 @@
 
 # Latihan 2 variabel_php.php
 
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/ac10377a37015331d80a206e97d6343ebb4116c8/lab7web/Screenshot%202025-11-12%20155954.png)
 
 # Latihan 3 latihan2.php (GET)
 
