@@ -27,7 +27,7 @@
 
 # Latihan 5 operator.php
 
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/c514860c3d0510c102fc1cd78455d7688817eb3a/lab7web/Screenshot%202025-11-12%20160732.png)
 
 # Latihan 6 kondisi_if.php dan kondisi_switch.php
 
