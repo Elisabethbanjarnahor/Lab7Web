@@ -17,7 +17,7 @@
 
 # Latihan 3 latihan2.php (GET)
 
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/fa046547b5baaf4b939bfefece04e9b57e1391f3/lab7web/Screenshot%202025-11-12%20160226.png)
 
 # Latihan 4 form_input.php
 
