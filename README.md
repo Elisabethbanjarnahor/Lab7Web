@@ -33,7 +33,7 @@
 
 ![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/34d8589808633c5067f87a8e58ee44ae99f9279d/lab7web/Screenshot%202025-11-12%20161055.png)
 
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/c1113d6ed46f1251f71ef059682e282e18c56c47/lab7web/Screenshot%202025-11-12%20161147.png)
 
 # Latihan 7 perulangan_for.php, while.php, dowhile.php
 
