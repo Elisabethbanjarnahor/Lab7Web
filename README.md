@@ -6,3 +6,5 @@
 
 # LAPORAN PRAKTIKUM DAN TUGAS BESERTA PENJELASAN
 
+# Latihan 1 php_dasar.php
+![hasil]()
