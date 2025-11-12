@@ -37,7 +37,7 @@
 
 # Latihan 7 perulangan_for.php, while.php, dowhile.php
 
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/ebb310bc41f83f175ccba64d1c54aefb33602b09/lab7web/Screenshot%202025-11-12%20161629.png)
 
 # Tugas Akhir tugas_php.php
 
