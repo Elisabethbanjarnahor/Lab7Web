@@ -21,7 +21,7 @@
 
 # Latihan 4 form_input.php
 
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/Lab7Web/blob/d9295d920402520aa40a5378841ab343a4eb391c/lab7web/Screenshot%202025-11-12%20160457.png)
 
 # Latihan 5 operator.php
 
